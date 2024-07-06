@@ -90,7 +90,7 @@ const Navbar = props => {
             pl={2}
           >
             <IoLogoGithub />
-            Source
+            View Source
           </LinkItem>
         </Stack>
 
@@ -106,11 +106,15 @@ const Navbar = props => {
                 aria-label="Options"
               />
               <MenuList>
+                <MenuItem as={MenuLink} href="/">
+                  About
+                </MenuItem>
                 <MenuItem as={MenuLink} href="/works">
                   Works
                 </MenuItem>
                 <MenuItem
                   as={Link}
+                  target="_blank"
                   href="https://github.com/nicholaaa/Digital-Portfolio-repository"
                 >
                   View Source

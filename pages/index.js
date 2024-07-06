@@ -102,7 +102,7 @@ const Home = () => (
           Completed O&apos; Levels and graduated Xinmin Secondary School.
         </BioSection>
         <BioSection>
-          <BioYear>2023-Present</BioYear>
+          <BioYear>2023</BioYear>
           Studying at Nanyang Polytecnic for a Diploma in Information
           Technologies
         </BioSection>
