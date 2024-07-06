@@ -99,7 +99,7 @@ const Home = () => (
         </BioSection>
         <BioSection>
           <BioYear>2022</BioYear>
-          Completed O' Levels and graduated Xinmin Secondary School.
+          Completed O&apos; Levels and graduated Xinmin Secondary School.
         </BioSection>
         <BioSection>
           <BioYear>2023-Present</BioYear>

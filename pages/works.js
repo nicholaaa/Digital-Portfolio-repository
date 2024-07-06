@@ -27,7 +27,7 @@ const Works = () => (
         </Section>
         <Section>
           <WorkGridItem id="tcc" title="Temasek CC" thumbnail={thumbTcc}>
-            App development project for a Community Center's website.
+            App development project for a Community Center&apos;s website.
           </WorkGridItem>
         </Section>
 

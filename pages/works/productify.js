@@ -1,16 +1,5 @@
-import {
-  Container,
-  Badge,
-  Link,
-  List,
-  ListItem,
-  SimpleGrid,
-  UnorderedList,
-  Heading,
-  Center
-} from '@chakra-ui/react'
+import { Container, Badge, List, ListItem, Heading } from '@chakra-ui/react'
 import Layout from '../../components/layouts/article'
-import { ExternalLinkIcon } from '@chakra-ui/icons'
 import { Title, WorkImage, Meta } from '../../components/work'
 import P from '../../components/paragraph'
 
@@ -22,7 +11,7 @@ const Work = () => (
       </Title>
       <P>
         Productify is an all-in-one app designed around increasing productivity!
-        The app includes many features that help organize and manage user's time
+        The app includes many features that help organize and manage user&apos;s time
         and energy.
       </P>
       <List ml={4} my={4}>
@@ -41,7 +30,7 @@ const Work = () => (
         Key Features
       </Heading>
       <P>
-        Productify is an app that is designed to improve user's productivity.
+        Productify is an app that is designed to improve user&apos;s productivity.
         The app has features to help users manage their time and efforts better
         and allow for better organisation overall.
       </P>
