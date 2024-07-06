@@ -70,7 +70,7 @@ const Home = () => (
         </Heading>
         <Paragraph>
           I am a full-stack developer based in Singapore with a passion for
-          building digital services/stuff he wants. I have a knack for all
+          building digital services/stuff I want. I have a knack for all
           things launching products, from planning and designing all the way to
           solving real-life problems with code. When not online, I love
           travelling and exploring new places. Currently, I am studying at
